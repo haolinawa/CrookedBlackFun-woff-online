@@ -16,6 +16,6 @@
 ### 参考及引用的字体仓库
 - 偏歪的黑趣体原字体仓库：[https://github.com/FWHP-Enfun/Crooked-Black-Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)
 - 得意黑：[https://github.com/atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
-- 斜月體：[https://github.com/onichan0923/smiley-moon](https://github.com/onichan0923/smiley-moon)
+- 斜月体：[https://github.com/onichan0923/smiley-moon](https://github.com/onichan0923/smiley-moon)
 
 欢迎给以上这些字体仓库点个 Star ⭐️ 支持一下创作者们！
