@@ -15,9 +15,9 @@
 本仓库的诞生离不开「偏歪的黑趣体」——基于该字体进行创作后，才有了这个仓库的属性。
 
 ### 参考及引用的字体仓库
--偏歪的黑趣体原字体仓库：[https://github.com/FWHP-Enfun/Crooked-Black-Fun]（https://github.com/FWHP-Enfun/Crooked-Black-Fun）
--得意黑：[https://github.com/atelier-anchor/smiley-sans]（https://github.com/atelier-anchor/smiley-sans）
--斜月体：[https://github.com/onichan0923/smiley-moon]（https://github.com/onichan0923/smiley-moon）
+- 偏歪的黑趣体原字体仓库：[https://github.com/FWHP-Enfun/Crooked-Black-Fun]（https://github.com/FWHP-Enfun/Crooked-Black-Fun）
+- 得意黑：[https://github.com/atelier-anchor/smiley-sans]（https://github.com/atelier-anchor/smiley-sans）
+- 斜月体：[https://github.com/onichan0923/smiley-moon]（https://github.com/onichan0923/smiley-moon）
 
 欢迎给以上这些字体仓库点个Star ⭐ ️支持一下创作者们！
 
@@ -63,8 +63,8 @@ Third party reference link
 The birth of this repository cannot be separated from the "skewed black fun font" - the attributes of this repository were created based on this font.
 
 ### Font repository for reference and citation
--Crooked Black Fun Original Font Warehouse:[ https://github.com/FWHP-Enfun/Crooked-Black-Fun ]（ https://github.com/FWHP-Enfun/Crooked-Black-Fun ）
--Proud Black:[ https://github.com/atelier-anchor/smiley-sans ]（ https://github.com/atelier-anchor/smiley-sans ）
--Oblique lunar body:[ https://github.com/onichan0923/smiley-moon ]（ https://github.com/onichan0923/smiley-moon ）
+- Crooked Black Fun Original Font Warehouse:[ https://github.com/FWHP-Enfun/Crooked-Black-Fun ]（ https://github.com/FWHP-Enfun/Crooked-Black-Fun ）
+- Proud Black:[ https://github.com/atelier-anchor/smiley-sans ]（ https://github.com/atelier-anchor/smiley-sans ）
+- Oblique lunar body:[ https://github.com/onichan0923/smiley-moon ]（ https://github.com/onichan0923/smiley-moon ）
 
 Welcome to click on these font repositories mentioned above Star  ⭐  Support the creators!
