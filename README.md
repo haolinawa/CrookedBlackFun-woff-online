@@ -12,7 +12,7 @@
 <br>
 
 # 感谢字体创作者们
-本仓库的诞生离不开「偏歪的黑趣体」——基于该字体进行创作后，才有了这个仓库的属性。
+本仓库的诞生离不开「偏歪的黑趣体」——基于该字体进行创作后，才有了这个仓库的内容。
 
 ### 参考及引用的字体仓库
 - 偏歪的黑趣体原字体仓库：[https://github.com/FWHP-Enfun/Crooked-Black-Fun](https://github.com/FWHP-Enfun/Crooked-Black-Fun)
